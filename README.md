@@ -31,7 +31,8 @@ Once my data was clean, I carried out an exploratory data analysis, followed by 
  - Overweight people have a high chance to suffer from a sleep disorder and people with an ideal or normal Blood pressure are less likely to have a sleep disorder.
  -  People between the ages of 50 and 60 have low-stress levels, and a sleep quality of around 9, but are susceptible to sleep apnea <br>
  - Men and women aged between 42 and 45 are very likely to have insomnia, and women of 50 and above 55 have a very high chance of having sleep apnea <br>
-After that, I preprocessed my data and created a baseline model: A LogisticRegression and a comparison model: A DecisionTree, i fitted both models and evaluated them. With an accuracy of 89% the baseline model performs better .<br>
+After that, I preprocessed my data and created a baseline model: A LogisticRegression and a comparison model: A DecisionTree,
+i fitted both models and evaluated them. With an accuracy of 89% the baseline model performs better .<br>
 
 I plotted the importance of each variable to see which variables contributed the most to the model prediction. I saved the model as a pickle file using joblib
 
