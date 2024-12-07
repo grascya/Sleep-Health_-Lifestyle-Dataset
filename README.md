@@ -29,7 +29,7 @@ To start this project, I first checked that all the data was clean and matched t
 Once my data was clean, I carried out an exploratory data analysis, followed by statistical tests which revealed that : 
    - Those whose occupation is Accountant, Doctor, Engineer, or Lawyer are less likely to have a sleep disorder nurses have a high chance of sleep apnea, and Salespersons and Teachers are more likely to have insomnia
    - Overweight people have a high chance to suffer from a sleep disorder and people with an ideal or normal Blood pressure are less likely to have a sleep disorder.
-   -  People between the ages of 50 and 60 have low-stress levels, and sleep quality of around 9, but are susceptible to sleep apnea <br>
+   -  People between the ages of 50 and 60 have low stress levels, and sleep quality of around 9, but are susceptible to sleep apnea <br>
    - Men and women aged between 42 and 45 are very likely to have insomnia, and women of 50 and above 55 have a very high chance of having sleep apnea <br>
 
 After that, I preprocessed my data and created a baseline model: A LogisticRegression and a comparison model: A DecisionTree, i fitted both models and evaluated them. With an accuracy of 89% the baseline model performs better .<br>
