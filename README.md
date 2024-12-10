@@ -2,7 +2,7 @@
 
 This synthetic dataset contains sleep and cardiovascular metrics and lifestyle factors of close to 400 fictive persons.
 
-The workspace is set up with one CSV file, `data.csv`, with the following columns :
+The workspace is set up with one CSV file, `data.csv`, with the following columns:
 
 - `Person ID`
 - `Gender`
